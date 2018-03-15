@@ -1,0 +1,6 @@
+{
+  "listenAddress": "localhost",
+  "listenPort": 2180,
+  "targetAddress": "localhost",
+  "targetPort": 1180
+}
